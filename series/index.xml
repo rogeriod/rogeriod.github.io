@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Series on ~/rogeriod</title>
+		<link>https://rogeriod.github.io/series/</link>
+		<description>Recent content in Series on rogeriod.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>pt-PT</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="https://rogeriod.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Themes Guide</title>
+			<link>https://rogeriod.github.io/series/themes-guide/</link>
+			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://rogeriod.github.io/series/themes-guide/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>

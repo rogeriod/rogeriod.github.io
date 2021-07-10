@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>genealogia on ~/rogeriod</title>
+		<link>https://rogeriod.github.io/tags/genealogia/</link>
+		<description>Recent content in genealogia on rogeriod.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>pt-PT</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0100</lastBuildDate>
+		
+		<atom:link href="https://rogeriod.github.io/tags/genealogia/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Gibraltar</title>
+			<link>https://rogeriod.github.io/post/gibraltar/</link>
+			<pubDate>Wed, 15 Jul 2020 00:00:00 +0100</pubDate>
+			
+			<guid>https://rogeriod.github.io/post/gibraltar/</guid>
+			<description>
+			
+				Ligação a Gibraltar
+			
+			</description>
+		</item>
+		<item>
+			<title>GeneWeb - Large data files</title>
+			<link>https://rogeriod.github.io/post/geneweb-large-data-files/</link>
+			<pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://rogeriod.github.io/post/geneweb-large-data-files/</guid>
+			<description>
+			
+				Como tratar de ficheiros Geneweb de grande dimensão
+			
+			</description>
+		</item>
+		<item>
+			<title>Denominoviso Gramps Fan Charts</title>
+			<link>https://rogeriod.github.io/post/denominoviso-gramps-fan-charts/</link>
+			<pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
+			
+			<guid>https://rogeriod.github.io/post/denominoviso-gramps-fan-charts/</guid>
+			<description>
+			
+				How to print DenominoViso fan charts
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
