@@ -7,10 +7,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>pt-PT</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Mon, 20 Jul 2020 12:18:08 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0100</lastBuildDate>
 		
 		<atom:link href="https://rogeriod.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Double exposure on film photography</title>
+			<link>https://rogeriod.github.io/post/double-exposure/</link>
+			<pubDate>Sat, 10 Jul 2021 00:00:00 +0100</pubDate>
+			
+			<guid>https://rogeriod.github.io/post/double-exposure/</guid>
+			<description>
+			
+				Exposing film more than once for added effect
+			
+			</description>
+		</item>
+		<item>
+			<title>Visitação da Ordem de Santiago 1517-1518</title>
+			<link>https://rogeriod.github.io/post/visitacao-ordem-de-santiago-1517/</link>
+			<pubDate>Sat, 08 May 2021 00:00:00 +0100</pubDate>
+			
+			<guid>https://rogeriod.github.io/post/visitacao-ordem-de-santiago-1517/</guid>
+			<description>
+			
+				Visitação da Ordem de Santiago 1517-1518
+			
+			</description>
+		</item>
 		<item>
 			<title>CCTV Video Export and Conversion</title>
 			<link>https://rogeriod.github.io/post/cctv-video-export-and-conversion/</link>
