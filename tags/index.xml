@@ -2,135 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on ~/rogeriod</title>
-		<link>https://rogeriod.github.io/tags/</link>
-		<description>Recent content in Tags on rogeriod.github.io</description>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on localhost:1313</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>pt-PT</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0100</lastBuildDate>
-		
-		<atom:link href="https://rogeriod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-		
+		<lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 		<item>
-			<title>photography</title>
-			<link>https://rogeriod.github.io/tags/photography/</link>
-			<pubDate>Sat, 10 Jul 2021 00:00:00 +0100</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/photography/</guid>
+			<title>Gregg</title>
+			<link>http://localhost:1313/tags/gregg/</link>
+			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/gregg/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>cctv</title>
-			<link>https://rogeriod.github.io/tags/cctv/</link>
+			<title>Personal Development</title>
+			<link>http://localhost:1313/tags/personal-development/</link>
+			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/personal-development/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>Shortand</title>
+			<link>http://localhost:1313/tags/shortand/</link>
+			<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/shortand/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>Photography</title>
+			<link>http://localhost:1313/tags/photography/</link>
+			<pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/photography/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>Cctv</title>
+			<link>http://localhost:1313/tags/cctv/</link>
 			<pubDate>Mon, 20 Jul 2020 12:18:08 +0100</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/cctv/</guid>
+			<guid>http://localhost:1313/tags/cctv/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>ffmpeg</title>
-			<link>https://rogeriod.github.io/tags/ffmpeg/</link>
+			<title>Ffmpeg</title>
+			<link>http://localhost:1313/tags/ffmpeg/</link>
 			<pubDate>Mon, 20 Jul 2020 12:18:08 +0100</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/ffmpeg/</guid>
+			<guid>http://localhost:1313/tags/ffmpeg/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>genealogia</title>
-			<link>https://rogeriod.github.io/tags/genealogia/</link>
-			<pubDate>Wed, 15 Jul 2020 00:00:00 +0100</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/genealogia/</guid>
+			<title>Genealogia</title>
+			<link>http://localhost:1313/tags/genealogia/</link>
+			<pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/genealogia/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>geneweb</title>
-			<link>https://rogeriod.github.io/tags/geneweb/</link>
+			<title>Geneweb</title>
+			<link>http://localhost:1313/tags/geneweb/</link>
 			<pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/geneweb/</guid>
+			<guid>http://localhost:1313/tags/geneweb/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>gramps</title>
-			<link>https://rogeriod.github.io/tags/gramps/</link>
-			<pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/gramps/</guid>
+			<title>Gramps</title>
+			<link>http://localhost:1313/tags/gramps/</link>
+			<pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+			<guid>http://localhost:1313/tags/gramps/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>css</title>
-			<link>https://rogeriod.github.io/tags/css/</link>
+			<title>Css</title>
+			<link>http://localhost:1313/tags/css/</link>
 			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/css/</guid>
+			<guid>http://localhost:1313/tags/css/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>html</title>
-			<link>https://rogeriod.github.io/tags/html/</link>
+			<title>Html</title>
+			<link>http://localhost:1313/tags/html/</link>
 			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/html/</guid>
+			<guid>http://localhost:1313/tags/html/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>markdown</title>
-			<link>https://rogeriod.github.io/tags/markdown/</link>
+			<title>Markdown</title>
+			<link>http://localhost:1313/tags/markdown/</link>
 			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/markdown/</guid>
+			<guid>http://localhost:1313/tags/markdown/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
 		<item>
-			<title>themes</title>
-			<link>https://rogeriod.github.io/tags/themes/</link>
+			<title>Themes</title>
+			<link>http://localhost:1313/tags/themes/</link>
 			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>https://rogeriod.github.io/tags/themes/</guid>
+			<guid>http://localhost:1313/tags/themes/</guid>
 			<description>
-			
-				
 			
 			</description>
 		</item>
-		
 	</channel>
 </rss>
